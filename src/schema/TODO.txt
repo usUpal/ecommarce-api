@@ -1,0 +1,4 @@
+- dockerfile of this project;
+- localbuild and docker
+- create proper readme file so that anyone can run this project easily.[.env.local file in git]
+- 
